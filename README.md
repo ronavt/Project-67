@@ -24,6 +24,7 @@ If you want to fork Quirk, you should fork off of [this commit](https://github.c
 
 🚧🚧🚧
 
+Cognitive behavioral therapy (CBT) is a form of psychological treatment that has been demonstrated to be effective for a range of problems including depression, anxiety disorders, alcohol and drug use problems, marital problems, eating disorders, and severe mental illness
 
 ---
 
